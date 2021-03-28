@@ -1,0 +1,4 @@
+name: hn-test
+library:
+  source-dirs: .
+  dependencies: [ base ]
